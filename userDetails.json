@@ -1,0 +1,16 @@
+[
+    {
+        "name": "shanti",
+        "password": "1213",
+        "DOB": "2",
+        "Gender": "f",
+        "Profile": "g"
+    },
+    {
+        "name": "rav",
+        "password": "123",
+        "DOB": "23",
+        "Gender": "f",
+        "Profile": "d"
+    }
+]
